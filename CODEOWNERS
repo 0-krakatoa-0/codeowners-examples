@@ -1,4 +1,5 @@
 *          @miscommunications/all
 
+# Enable precedence. Will dmihalcik be able to review the file? Will they be auto-assigned?
 CODEOWNERS @dmihalcik
 CODEOWNERS @0-krakatoa-0
